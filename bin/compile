@@ -1,4 +1,4 @@
 #!/bin/sh
 
-python $1/manage.py post_build
+python $1/manage.py post_build $1
 
